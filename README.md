@@ -1,4 +1,4 @@
-# etamshop-frontend
+# --delete
 
 ## Project setup
 ```
